@@ -1,0 +1,14 @@
+C:\Users\labsfiap\Desktop\CP04-Csharp\ProcessadorDeArquivos\bin\Debug\net9.0\ProcessadorDeArquivos.exe
+C:\Users\labsfiap\Desktop\CP04-Csharp\ProcessadorDeArquivos\bin\Debug\net9.0\ProcessadorDeArquivos.deps.json
+C:\Users\labsfiap\Desktop\CP04-Csharp\ProcessadorDeArquivos\bin\Debug\net9.0\ProcessadorDeArquivos.runtimeconfig.json
+C:\Users\labsfiap\Desktop\CP04-Csharp\ProcessadorDeArquivos\bin\Debug\net9.0\ProcessadorDeArquivos.dll
+C:\Users\labsfiap\Desktop\CP04-Csharp\ProcessadorDeArquivos\bin\Debug\net9.0\ProcessadorDeArquivos.pdb
+C:\Users\labsfiap\Desktop\CP04-Csharp\ProcessadorDeArquivos\obj\Debug\net9.0\ProcessadorDeArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\CP04-Csharp\ProcessadorDeArquivos\obj\Debug\net9.0\ProcessadorDeArquivos.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\CP04-Csharp\ProcessadorDeArquivos\obj\Debug\net9.0\ProcessadorDeArquivos.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\CP04-Csharp\ProcessadorDeArquivos\obj\Debug\net9.0\ProcessadorDeArquivos.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\CP04-Csharp\ProcessadorDeArquivos\obj\Debug\net9.0\ProcessadorDeArquivos.dll
+C:\Users\labsfiap\Desktop\CP04-Csharp\ProcessadorDeArquivos\obj\Debug\net9.0\refint\ProcessadorDeArquivos.dll
+C:\Users\labsfiap\Desktop\CP04-Csharp\ProcessadorDeArquivos\obj\Debug\net9.0\ProcessadorDeArquivos.pdb
+C:\Users\labsfiap\Desktop\CP04-Csharp\ProcessadorDeArquivos\obj\Debug\net9.0\ProcessadorDeArquivos.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\CP04-Csharp\ProcessadorDeArquivos\obj\Debug\net9.0\ref\ProcessadorDeArquivos.dll
