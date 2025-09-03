@@ -33,4 +33,6 @@ O principal desafio técnico foi garantir que a aplicação permanecesse respons
 * RM551684 - Victor Asfur
 * RM550390 - Vitor Shimizu
 
+* Print do código:
+
 * <img width="1279" height="1023" alt="image" src="https://github.com/user-attachments/assets/ab003ee3-a318-44e6-9f4b-6b6bb14230b4" />
